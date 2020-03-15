@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # api_keys
-api-keys.py = {weather_api_key: 'ea61a937e3cfc3ec6f5e23baa9176490',
-	    g_key: 'AIzaSyA2BDIYeG55azIH7xPy7MVV4iHJsA3Y2Pg'
+api_keys.py 
